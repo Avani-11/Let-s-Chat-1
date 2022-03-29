@@ -1,0 +1,52 @@
+.row.content 
+{
+    height: 1500px;
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    background-color: #a187d1;
+    height: 100%;
+    width: 30%;
+  }
+  
+  /* Set black background color, white text and some padding */
+  footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+  }
+  
+  html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #17b473, #1abe4b, #38b357, #0b720b, #326e0f);
+}
+
+.login_div
+{
+	background: rgba(189, 112, 25, 0.8);
+    float: none;border-radius: 15px;
+}
+
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+}
+
+#login
+{
+    padding-left: 10px;
+}
+
+img
+{
+   height: 200px;
+   width: 200px;
+}
