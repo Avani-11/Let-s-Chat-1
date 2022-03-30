@@ -50,3 +50,29 @@ img
    height: 200px;
    width: 200px;
 }
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px;
+   float: right;
+}
+
+
+#output
+{
+	padding: 10px;
+   width:80%;background: rgba(90, 146, 197, 0.8);
+   border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
